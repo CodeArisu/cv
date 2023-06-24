@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F5EFE7;
+}
+
+hr{
+    background-color: #F5EFE7;
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;  
+}
+
+.aboutMe{
+    color:  darkslategrey;
+}
+
+h1{
+    color:rgb(75, 77, 169);
+}
+
+#goals{
+    color: olivedrab;
+}
+
+#skills{
+    color: mediumslateblue;
+}
+
+#education{
+    color: maroon;
+}
